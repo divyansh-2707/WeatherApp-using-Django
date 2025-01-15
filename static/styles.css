@@ -1,0 +1,18 @@
+.bg {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10px; 
+ 
+  color: white; 
+}
+
+body{
+  background-image: url("https://s3.scoopwhoop.com/anj/sw/30ff9f01-df98-442f-9857-0869f76e827b.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  
+}
+
+.city{
+  display: flexbox;
+}
